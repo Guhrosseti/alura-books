@@ -63,7 +63,7 @@ Este projeto foi desenvolvido através do curso HTML e CSS: responsividade com m
 
 ## Link para acessar projeto publicado:
 
-### https://link para o projeto publicado
+### [https://link para o projeto publicado](https://guhrosseti.github.io/alura-books/)
 
 ## Feito por:
 
