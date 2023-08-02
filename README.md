@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido através do curso HTML e CSS: responsividade com mobile-first da Alura, aprendi como construir páginas web a partir do design mobile com bastante ênfase em responsividade. Foi desenvolvido um layout para cada tamanho de tela, 428px (mobile), 1024px (tablet), 1728px (desktop)
 
-## Design Mobile (428px) do AluraBooks
+## Design Mobile (428px) do AluraBooks.
 
 ![Design Mobile](https://github.com/Guhrosseti/alura-books/blob/main/img/imagens-README/Design-mobile.png)
 
